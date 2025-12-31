@@ -1,0 +1,7 @@
+{
+  "name": "Nomi Web Mate",
+  "description": "A web-based recreation of the Nomi in-car AI companion, featuring voice interaction, expressive animations, and Gemini-powered intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
